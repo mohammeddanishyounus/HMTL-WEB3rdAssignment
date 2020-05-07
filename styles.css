@@ -1,0 +1,245 @@
+body{
+    font-family: sans-serif;
+    background-color: thistle;
+}
+
+#top{
+       background-color: blanchedalmond; 
+}
+#header{
+    padding: 10px;
+    display: inline-block;
+    align-items: center;
+}
+
+.icons,.buttons{
+     text-align: center;
+     font-size: xx-large;
+     margin-right: 4px;
+     width: 350px;
+}
+
+#logo{
+    width: 550px;
+}
+     
+.message{
+    text-align: center;
+    margin: auto;
+    width: 650px;
+    font-size: large;
+    color: blue;
+    font-weight: 700;
+}
+
+#middle{
+    background-color: whitesmoke;
+}
+
+#navi, #logo{
+    padding: 10px;
+    display: inline-block;
+    align-items: center;
+}
+
+li{
+    float: left;
+    list-style-type: none;  
+}
+  
+li a{   
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-weight: 700;
+}
+  
+li a:hover{
+    background-color:#4CAF50;
+}
+
+#image{
+    width: 300px;
+    align-items: center;
+}
+#banner{
+    text-align: center;
+}
+
+#linebox{
+    background-color:blue; 
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+    color: white;
+    margin: auto;
+}
+
+h1,h3{
+    text-align: center;
+    color: white;
+}
+
+h2{
+   padding-left: 20px;
+    text-align: left;
+    color: blue;
+}
+
+#counter{
+    background-color: blue;
+    text-align: center;
+}
+
+#counterid{
+    padding: 30px;
+    display: inline-block;
+    width: 260px;
+    height: 280px;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+
+button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+#perabox{
+    width: 1200px;
+    height: 450px;
+    text-align: justify;
+    margin: auto;
+}
+
+#banner2{
+    text-align: center;
+}
+
+#favicon{
+    width: 50px;
+    align-items: center;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#counterimage{
+    width: 80px;
+}
+.inspace{
+    text-align: center;
+    border: thin;
+}
+
+#space{
+    background-color: blue;
+    display: inline-block;
+    width: 400px;
+    height: 150px;
+    font-size: large;
+    color: white;
+    margin: 5px;
+    padding: 25px 25px 25px 50px;
+    float: inline-start;
+}
+
+#missionupcoming{
+    height: 450px;
+    padding-top: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+#mission{
+    height: 450px;
+    width: 1000px;
+    background-color: whitesmoke;
+    display: inline-block;
+    margin: 5px;
+}
+
+#upcoming{
+    height: 430px;
+    width: 400px;
+    background-color: whitesmoke;
+    display: inline-block;
+    margin: 5px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: left;
+    line-height: 30px;
+}
+
+#upcominginside{
+    height: 150px;
+    width: 400px;
+    background-color:blue;
+    display: inline-block;
+    padding-top: 10px;
+    font-size: small;
+    margin: 7px;
+}
+
+#gallery{
+    text-align: center;
+    list-style-type: none;  
+    margin: 20px;
+    background-color: none;
+    padding-bottom: 20px;
+
+}
+  
+#gallery a{   
+    display: block;
+    color: blue;
+    padding: 10px;
+    text-align: center;
+}
+
+#footer{
+    padding: 30px;
+    display: inline-block;
+    align-items: left;
+}
+
+#bottom{
+    background-color: blanchedalmond; 
+    height: 300px;
+}
+
+.address{
+     text-align: center;
+     font-size: large;
+     width:800px;
+     text-align: left;
+}
+
+.contactus{
+    text-align: center;
+    font-size: xx-large;
+    margin-right: 4px;
+    width: 450px;
+}
+
+#contactwithus{
+    padding-left: 20px;
+     text-align: center;
+     color: blue;
+     font-size: 30px;
+ }
+
+ #addresstext{
+     padding-left: 25px;
+ }
